@@ -1,0 +1,28 @@
+ /*
+ Author: Codebits Academy
+ Date: Wednesday, June 23, 2021
+ Topic: Introduction to CSS
+ */
+ 
+ 
+ 
+ *{
+ border: 1px solid red;
+}
+
+ h1{
+ color: crimson;
+}
+
+ .logo-text{
+ color: aliceblue;
+}
+
+ p{
+ font-size: 20px;
+}
+
+ #red-center{
+ color: red;
+ text-align: center;
+}
